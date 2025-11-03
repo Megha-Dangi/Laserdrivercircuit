@@ -5136,7 +5136,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JACK:TENSILITY_54-00166"
+		(property "Footprint" "Footprints:TENSILITY_54-00166"
 			(at 91.44 107.95 0)
 			(effects
 				(font
