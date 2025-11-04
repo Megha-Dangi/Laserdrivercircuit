@@ -1,1 +1,1 @@
-Update symbols J3 from 'Library:54-00166' to 'Library:54-00166': OK
+Update symbol C6 from 'Device:C_Polarized_Small_US' to 'Device:C_Polarized_Small_US': OK

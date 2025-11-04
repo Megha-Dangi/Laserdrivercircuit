@@ -1,4 +1,11 @@
-26720662540677917
+26729477218151488
+1NFCAPACITOR
+CAP_UEP_5X11_NCH
+
+UVR2A0R1MDD1TD 
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2810,6 +2817,13 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CAPACITOR_10pF
+CAPRB250W50L400T250H550
+
+
 0
 2
 2
@@ -61375,6 +61389,48 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+FOOTPRINTS
+CAPRB250W50L400T250H550
+
+
+0
+2
+2
+FOOTPRINTS
+CAP_UEP_5X11_NCH
+
+UVR2A0R1MDD1TD 
+0
+2
+2
+FOOTPRINTS
+PDIP-8_N_LIT
+
+LTC1044CN8-PBF 
+0
+8
+8
+FOOTPRINTS
+SWITCH_03211B
+
+GPTS203211B 
+0
+2
+2
+FOOTPRINTS
+TENSILITY_54-00166
+
+
+0
+3
+3
+FOOTPRINTS
+potentiometer
+
+
+0
+3
+3
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -61589,20 +61645,6 @@ Filter
 Filter_Schaffner_FN406
 Ultra Compact EMC Filter (https://www.schaffner.com/product/FN406/Schaffner_datasheet_FN406.pdf)
 emi filter
-0
-5
-5
-Footprints
-DIP794W45P254L959H508Q8
-
-
-0
-8
-8
-Footprints
-HUBER_SUHNER_85_SMA-50-0-144_111_YH
-
-
 0
 5
 5
@@ -69131,13 +69173,6 @@ THT
 0
 4
 2
-JACK
-TENSILITY_54-00166
-
-
-0
-3
-3
 Jumper
 Jumper_Harwin_S1621_P10.9mm
 Harwin SMD jumper link, 12.3x2.3mm, 1.8mm height, 10.9mm pad pitch, https://cdn.harwin.com/pdfs/S1621R.pdf
@@ -97278,13 +97313,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SMA
-HUBER_SUHNER_85_SMA-50-0-144_111_YH
-
-
-0
-5
-5
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -106371,3 +106399,10 @@ Varistor VF
 0
 2
 2
+footprints
+PDIP-8_N_LIT
+
+LTC1044CN8-PBF 
+0
+8
+8
