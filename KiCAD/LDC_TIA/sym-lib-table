@@ -5,4 +5,7 @@
   (lib (name "2025-11-04_09-58-46")(type "KiCad")(uri "C:/Users/vansh/OneDrive/IIT Madras/LDC_plus_TIA/KiCAD/SYMBOL/2025-11-04_09-58-46.kicad_sym")(options "")(descr ""))
   (lib (name "potentiometer")(type "KiCad")(uri "C:/Users/vansh/OneDrive/IIT Madras/LDC_plus_TIA/KiCAD/SYMBOL/potentiometer.kicad_sym")(options "")(descr ""))
   (lib (name "GPTS203211B")(type "KiCad")(uri "C:/Users/vansh/OneDrive/IIT Madras/LDC_plus_TIA/KiCAD/SYMBOL/GPTS203211B.kicad_sym")(options "")(descr ""))
+  (lib (name "B3F_6020_tact_sw")(type "KiCad")(uri "C:/Users/vansh/OneDrive/IIT Madras/LDC_plus_TIA/KiCAD/SYMBOL/B3F_6020_tact_sw.kicad_sym")(options "")(descr ""))
+  (lib (name "1KOHMRESISTOR")(type "KiCad")(uri "C:/Users/vansh/OneDrive/IIT Madras/LDC_plus_TIA/KiCAD/SYMBOL/1KOHMRESISTOR.kicad_sym")(options "")(descr ""))
+  (lib (name "2KOHMRESISTOR")(type "KiCad")(uri "C:/Users/vansh/OneDrive/IIT Madras/LDC_plus_TIA/KiCAD/SYMBOL/2KOHMRESISTOR.kicad_sym")(options "")(descr ""))
 )

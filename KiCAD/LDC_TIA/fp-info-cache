@@ -1,11 +1,4 @@
-26729477218151488
-1NFCAPACITOR
-CAP_UEP_5X11_NCH
-
-UVR2A0R1MDD1TD 
-0
-2
-2
+26731239408974368
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2817,13 +2810,6 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
-0
-2
-2
-CAPACITOR_10pF
-CAPRB250W50L400T250H550
-
-
 0
 2
 2
@@ -61390,6 +61376,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 FOOTPRINTS
+B3F_6020_tact_sw
+
+
+0
+3
+3
+FOOTPRINTS
 CAPRB250W50L400T250H550
 
 
@@ -61404,6 +61397,13 @@ UVR2A0R1MDD1TD
 2
 2
 FOOTPRINTS
+GPTS203211B
+GPTS203211B
+Switch
+0
+2
+2
+FOOTPRINTS
 PDIP-8_N_LIT
 
 LTC1044CN8-PBF 
@@ -61411,9 +61411,23 @@ LTC1044CN8-PBF
 8
 8
 FOOTPRINTS
+RES_MRS25_VIS
+
+MRS25000C6209FCT00 
+0
+2
+2
+FOOTPRINTS
 SWITCH_03211B
 
 GPTS203211B 
+0
+2
+2
+FOOTPRINTS
+SW_B3F-6020_OMR
+
+B3F-6020 
 0
 2
 2
@@ -106399,10 +106413,3 @@ Varistor VF
 0
 2
 2
-footprints
-PDIP-8_N_LIT
-
-LTC1044CN8-PBF 
-0
-8
-8
