@@ -687,15 +687,15 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "B3F-6020_1"
+		(symbol "B3F_6020_tact_sw:B3F-6020"
 			(pin_names
 				(offset 0.254)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "SW2"
-				(at 10.16 11.43 0)
+			(property "Reference" "SW"
+				(at 10.414 10.16 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -703,7 +703,7 @@
 				)
 			)
 			(property "Value" "B3F-6020"
-				(at 10.16 8.89 0)
+				(at 10.414 7.62 0)
 				(effects
 					(font
 						(size 1.524 1.524)
@@ -765,7 +765,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "B3F-6020_1_0_1"
+			(symbol "B3F-6020_0_1"
 				(polyline
 					(pts
 						(xy 7.62 6.35) (xy 7.62 2.54)
@@ -851,7 +851,7 @@
 					)
 				)
 			)
-			(symbol "B3F-6020_1_1_1"
+			(symbol "B3F-6020_1_1"
 				(pin passive line
 					(at 5.08 3.81 0)
 					(length 2.54)
@@ -5167,7 +5167,6 @@
 		)
 	)
 	(symbol
-		(lib_name "B3F-6020_1")
 		(lib_id "B3F_6020_tact_sw:B3F-6020")
 		(at 186.69 71.12 0)
 		(unit 1)
@@ -5193,7 +5192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SW_B3F-6020_OMR"
+		(property "Footprint" "FOOTPRINTS:SW_B3F-6020_OMR"
 			(at 186.69 71.12 0)
 			(effects
 				(font
